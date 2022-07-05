@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ahmed Achraf",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ahmedachraf2001.png",
+    "email": "ahmedachrafali@gmail.com",
+    "phone": "+2 011 2678 1635",
+    "website": "https://ahmedachraf2001.github.io",
+    "summary": "I am studying for a B.S. at faculty of Engineeing, Helwan University, Biomedical Engineering Department. I expect to graduate in Spring, 2024.",
+    "location": { "address": "Cairo, Egypt", "postalCode": "11772", "city": "Cairo", "countryCode": "EG", "region": "Mataryia" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ahmedachraf2001", "url": "http://github.com/ahmedachraf2001" },
+      { "network": "linkedin", "username": "ahmedachraf2001", "url": "https://www.linkedin.com/in/ahmed-achraf-7924041a1/" },
+      { "network": "twitter", "username": "ahmedachraf2001", "url": "http://twitter.com/ahmedachraf2001" },
+      { "network": "instagram", "username": "ahmedachraf2001", "url": "http://instagram.com/ahmedachraf2001" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
