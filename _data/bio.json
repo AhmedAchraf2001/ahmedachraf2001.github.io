@@ -20,29 +20,32 @@
     { "name": "Machine Learning" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" } 
+    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windos", "Linux", "Docker", "Git/GitHub", "PowerPi", "Tabulo" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Faculty of Engineering, Helwan University, Cairo, Egypt",
+      "area": "Biomedical Software Engineeing (since Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "courses": [
       ]
     }
   ],
+
+  
+  
   "work": [
     {
       "company": "UH Manoa Board of Publications",
