@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Ahmed Achraf",
+    "label": "Student",
+    "picture": "https://github.com/ahmedachraf2001.png",
+    "email": "ahmedachrafali@gmail.com",
+    "phone": "+2 011 2678 1635",
+    "website": "https://ahmedachraf2001.github.io",
+    "summary": "I am studying for a B.S. at faculty of Engineeing, Helwan University, Biomedical Engineering Department. I expect to graduate in Spring, 2024.",
+    "location": { "address": "Cairo, Egypt", "postalCode": "11772", "city": "Cairo", "countryCode": "EG", "region": "Mataryia" },
+    "profiles": [
+      { "network": "github", "username": "ahmedachraf2001", "url": "http://github.com/ahmedachraf2001" },
+      { "network": "linkedin", "username": "ahmedachraf2001", "url": "https://www.linkedin.com/in/ahmed-achraf-7924041a1/" },
+      { "network": "twitter", "username": "ahmedachraf2001", "url": "http://twitter.com/ahmedachraf2001" },
+      { "network": "instagram", "username": "ahmedachraf2001", "url": "http://instagram.com/ahmedachraf2001" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "HTML" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windos", "Linux", "Docker", "Git/GitHub", "PowerPi", "Tabulo" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculty of Engineering, Helwan University, Cairo, Egypt",
+      "area": "Biomedical Software Engineeing (since Spring, 2019)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+
+  
+  
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
