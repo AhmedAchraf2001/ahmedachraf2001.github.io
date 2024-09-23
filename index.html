@@ -16,13 +16,37 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <style>
+            .logos-row {
+                /* display: flex;
+                justify-content: right;
+                margin-top: 56px;
+                margin-left: 128px; */
+                display: flex;
+                justify-content: flex-end; /* Align logos to the right */
+                margin-top: 640px;
+                position: fixed; /* Uncomment to fix the div in position */
+                top: 0; /* Position the logos at the top */
+                right: 0; /* Position the logos at the right */
+                z-index: 1000; /* Ensure the logos stay above other content */
+            }
+    
+            .logos-row a {
+                margin-right: 35px;
+            }
+    
+            .logos-row img {
+                width: 20px;
+                height: 20px;
+            }
+        </style>
     </head>
     <body class="d-flex flex-column h-100">
         <main class="flex-shrink-0">
             <!-- Navigation-->
             <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
                 <div class="container px-5">
-                    <a class="navbar-brand" href="index.html"><span class="fw-bolder text-primary">Ahmed Achraf ™</span></a>
+                    <a class="navbar-brand" href="index.html"><span class="fw-bolder text-primary">Ahmed Achraf</span></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
@@ -48,10 +72,11 @@
         </br>
         </br>
         </br>
+         </br>
         </br>
-        </br>
+        
                             <div class="text-center text-xxl-start">
-                                <div class="fs-3 fw-light text-muted">I'm Artificial intelligence Engineer, prepare a master’s degree at <span style="color: #1e30f3">Faculty of Engineering, Cairo University</span>. I specialize in Computer Vision.</div>
+                                <div class="fs-3 fw-light text-muted">I'm Artificial intelligence Engineer, prepare a master’s </br>degree at <span style="color: #1e30f3">Faculty of Engineering, Cairo University</span>. </br>I specialize in Computer Vision.</div>
                             </div>
 
         </br>
@@ -65,8 +90,23 @@
                                     <a class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="projects.html">Projects</a>
                                 </div>
                             </div>
+
                         </div>
-     
+
+                <!-- <div class="logos-row">
+                    <a href="https://github.com/AhmedAchraf2001" target="_blank">
+                        <img src="assets\github.png" alt="GitHub">
+                    </a>
+                    <a href="https://www.linkedin.com/in/ahmedachraf2001/" target="_blank">
+                        <img src="assets\linkedin.jpg" alt="LinkedIn">
+                    </a>
+                    <a href="https://x.com/ahmedachraf2001/" target="_blank">
+                        <img src="assets\twitter.jpg" alt="Twitter">
+                    </a>
+                    <a href="https://www.facebook.com/ahmedachraf2001" target="_blank">
+                        <img src="assets\facebook.png" alt="Facebook">
+                    </a>
+                </div> -->
                         <div class="col-xxl-7">
                             <!-- Header profile picture-->
                             <div class="d-flex justify-content-center mt-5 mt-xxl-0">
@@ -217,7 +257,7 @@
             </section>
         </main>
         <!-- Footer-->
-        <footer class="bg-white py-4 mt-auto">
+        <!-- <footer class="bg-white py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                     <div class="col-auto"><div class="small m-0">Copyright &copy;  ™ 2023</div></div>
@@ -230,7 +270,7 @@
                     </div>
                 </div>
             </div>
-        </footer>
+        </footer> -->
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
